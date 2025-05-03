@@ -19,7 +19,7 @@
  - 提供全面的日志记录到“程序控制台日志”窗口，允许用户监控进度并排除任何问题。
 
 ## 下载：
- - [始终最新的版本](https://github.com/telegram-prime/mobile-telegram-converter/releases/latest)
+ - [始终最新的版本](https://github.com/telegram-prime/mobile-telegram-converter-cn/releases/latest)
 
 ## 免费试用期
 - 我们提供 24 小时的免费试用期，在此期间，用户将获得 5 次转换（操作）以测试并确保其满足您的要求，然后再购买。
